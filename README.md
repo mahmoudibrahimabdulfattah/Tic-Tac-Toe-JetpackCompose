@@ -13,6 +13,8 @@ Tic Tac Toe game built with Kotlin and Jetpack Compose.
 
 Tic Tac Toe Jetpack Compose is a simple and classic Tic Tac Toe game implemented using Jetpack Compose, a modern Android UI toolkit for building native UIs.
 
+![App Screenshot](https://imgur.com/LRGA99R)
+
 ## Features
 
 - Two players (X and O) take turns to make a move on the 3x3 grid.
